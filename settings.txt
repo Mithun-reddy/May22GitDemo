@@ -1,2 +1,2 @@
-added settings feature
+add settings feature
 New line
