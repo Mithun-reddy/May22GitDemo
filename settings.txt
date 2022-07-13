@@ -1,2 +1,3 @@
 add settings feature
+Extra options added
 New line
